@@ -99,9 +99,8 @@ table td a:hover{
 }
 table td p{
     color: beige;
-    text-align: justify;
+    text-align: left;
     margin-left: 20px;
-    font-size: large;
 }
 .ani{
     background-color:lightcoral;
